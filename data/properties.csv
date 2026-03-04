@@ -1,0 +1,301 @@
+property_id,location,price,bedrooms,property_type,amenities,description
+P0,Delhi,5400000,3,Apartment,"Gym, Parking, Swimming Pool",A 3 BHK Plot in Delhi with Gym and Parking and Swimming Pool.
+P1,Chennai,7600000,4,Villa,"Swimming Pool, Gym, Garden",A 4 BHK Plot in Chennai with Swimming Pool and Gym and Garden.
+P2,Ahmedabad,17700000,1,Plot,"Swimming Pool, School nearby",A 1 BHK Plot in Ahmedabad with Swimming Pool and School nearby.
+P3,Ahmedabad,17100000,3,Villa,"Swimming Pool, Garden, Gym, School nearby",A 3 BHK Plot in Ahmedabad with Swimming Pool and Garden and Gym and School nearby.
+P4,Kolkata,3200000,1,Villa,"Gym, Swimming Pool",A 1 BHK Villa in Kolkata with Gym and Swimming Pool.
+P5,Jaipur,14200000,5,Apartment,"Swimming Pool, Garden, Gym",A 5 BHK Apartment in Jaipur with Swimming Pool and Garden and Gym.
+P6,Chennai,3400000,5,Apartment,"School nearby, Parking, Garden",A 5 BHK Villa in Chennai with School nearby and Parking and Garden.
+P7,Lucknow,16700000,5,Villa,"Gym, School nearby",A 5 BHK Apartment in Lucknow with Gym and School nearby.
+P8,Jaipur,5800000,1,Plot,"Parking, Gym, School nearby, Garden",A 1 BHK Villa in Jaipur with Parking and Gym and School nearby and Garden.
+P9,Hyderabad,18200000,2,Plot,"Parking, Gym",A 2 BHK Plot in Hyderabad with Parking and Gym.
+P10,Delhi,7500000,2,Plot,"Parking, Swimming Pool",A 2 BHK Plot in Delhi with Parking and Swimming Pool.
+P11,Bangalore,13400000,5,Villa,"Swimming Pool, Parking, School nearby",A 5 BHK Villa in Bangalore with Swimming Pool and Parking and School nearby.
+P12,Chennai,13700000,2,Apartment,"Gym, Metro access",A 2 BHK Apartment in Chennai with Gym and Metro access.
+P13,Jaipur,9400000,4,Plot,"Parking, Gym",A 4 BHK Plot in Jaipur with Parking and Gym.
+P14,Jaipur,15800000,4,Villa,"Garden, Parking, School nearby",A 4 BHK Villa in Jaipur with Garden and Parking and School nearby.
+P15,Pune,10400000,2,Villa,"Metro access, Gym",A 2 BHK Plot in Pune with Metro access and Gym.
+P16,Lucknow,18400000,4,Plot,"Garden, Gym, School nearby, Swimming Pool",A 4 BHK Plot in Lucknow with Garden and Gym and School nearby and Swimming Pool.
+P17,Bangalore,11300000,5,Apartment,"Gym, School nearby",A 5 BHK Apartment in Bangalore with Gym and School nearby.
+P18,Mumbai,16100000,1,Villa,"Garden, School nearby",A 1 BHK Apartment in Mumbai with Garden and School nearby.
+P19,Ahmedabad,16400000,2,Villa,"Metro access, Gym",A 2 BHK Apartment in Ahmedabad with Metro access and Gym.
+P20,Hyderabad,16800000,1,Plot,"Metro access, Swimming Pool, School nearby",A 1 BHK Villa in Hyderabad with Metro access and Swimming Pool and School nearby.
+P21,Ahmedabad,6700000,4,Plot,"Swimming Pool, School nearby",A 4 BHK Plot in Ahmedabad with Swimming Pool and School nearby.
+P22,Lucknow,7500000,1,Apartment,"Swimming Pool, Metro access, Gym, School nearby",A 1 BHK Plot in Lucknow with Swimming Pool and Metro access and Gym and School nearby.
+P23,Kolkata,12600000,3,Plot,"Metro access, Parking",A 3 BHK Apartment in Kolkata with Metro access and Parking.
+P24,Jaipur,7700000,2,Plot,"Swimming Pool, Garden, School nearby",A 2 BHK Apartment in Jaipur with Swimming Pool and Garden and School nearby.
+P25,Jaipur,12200000,2,Plot,"School nearby, Garden",A 2 BHK Apartment in Jaipur with School nearby and Garden.
+P26,Mumbai,3100000,4,Apartment,"Parking, Gym, Metro access",A 4 BHK Plot in Mumbai with Parking and Gym and Metro access.
+P27,Bangalore,4300000,5,Apartment,"Metro access, Swimming Pool, Garden",A 5 BHK Plot in Bangalore with Metro access and Swimming Pool and Garden.
+P28,Pune,18300000,5,Plot,"Metro access, Garden",A 5 BHK Villa in Pune with Metro access and Garden.
+P29,Pune,6800000,2,Villa,"Swimming Pool, Parking, School nearby",A 2 BHK Plot in Pune with Swimming Pool and Parking and School nearby.
+P30,Pune,17900000,5,Apartment,"Gym, Garden",A 5 BHK Plot in Pune with Gym and Garden.
+P31,Mumbai,5300000,3,Plot,"Metro access, Garden",A 3 BHK Villa in Mumbai with Metro access and Garden.
+P32,Hyderabad,9300000,4,Villa,"Metro access, Gym, Garden",A 4 BHK Apartment in Hyderabad with Metro access and Gym and Garden.
+P33,Kolkata,8800000,1,Plot,"School nearby, Parking",A 1 BHK Apartment in Kolkata with School nearby and Parking.
+P34,Pune,7300000,2,Apartment,"Metro access, Swimming Pool, Garden",A 2 BHK Apartment in Pune with Metro access and Swimming Pool and Garden.
+P35,Delhi,7100000,5,Villa,"Swimming Pool, School nearby",A 5 BHK Villa in Delhi with Swimming Pool and School nearby.
+P36,Jaipur,18500000,2,Villa,"Parking, Gym",A 2 BHK Plot in Jaipur with Parking and Gym.
+P37,Pune,9200000,4,Apartment,"School nearby, Garden, Swimming Pool, Gym",A 4 BHK Plot in Pune with School nearby and Garden and Swimming Pool and Gym.
+P38,Lucknow,4700000,5,Villa,"Gym, Garden",A 5 BHK Villa in Lucknow with Gym and Garden.
+P39,Jaipur,11300000,5,Plot,"Swimming Pool, Metro access",A 5 BHK Villa in Jaipur with Swimming Pool and Metro access.
+P40,Mumbai,4800000,2,Apartment,"Parking, School nearby",A 2 BHK Apartment in Mumbai with Parking and School nearby.
+P41,Ahmedabad,16500000,2,Plot,"Swimming Pool, Garden, Gym, Metro access",A 2 BHK Plot in Ahmedabad with Swimming Pool and Garden and Gym and Metro access.
+P42,Hyderabad,6300000,5,Villa,"Garden, Metro access",A 5 BHK Plot in Hyderabad with Garden and Metro access.
+P43,Hyderabad,10600000,5,Apartment,"Parking, Swimming Pool, School nearby",A 5 BHK Villa in Hyderabad with Parking and Swimming Pool and School nearby.
+P44,Mumbai,12700000,3,Villa,"Metro access, Parking, Garden, Swimming Pool",A 3 BHK Villa in Mumbai with Metro access and Parking and Garden and Swimming Pool.
+P45,Bangalore,5500000,5,Apartment,"Garden, Gym, Swimming Pool, School nearby",A 5 BHK Apartment in Bangalore with Garden and Gym and Swimming Pool and School nearby.
+P46,Ahmedabad,5100000,5,Villa,"Swimming Pool, Gym",A 5 BHK Villa in Ahmedabad with Swimming Pool and Gym.
+P47,Mumbai,17100000,3,Apartment,"Parking, Garden",A 3 BHK Plot in Mumbai with Parking and Garden.
+P48,Pune,10100000,4,Villa,"Parking, Metro access, Swimming Pool, Gym",A 4 BHK Apartment in Pune with Parking and Metro access and Swimming Pool and Gym.
+P49,Pune,3900000,5,Apartment,"School nearby, Metro access, Parking",A 5 BHK Villa in Pune with School nearby and Metro access and Parking.
+P50,Kolkata,4400000,2,Villa,"Gym, Swimming Pool",A 2 BHK Plot in Kolkata with Gym and Swimming Pool.
+P51,Pune,11300000,3,Plot,"Gym, Parking, Metro access",A 3 BHK Villa in Pune with Gym and Parking and Metro access.
+P52,Kolkata,6700000,2,Plot,"Parking, Garden, Swimming Pool, Metro access",A 2 BHK Apartment in Kolkata with Parking and Garden and Swimming Pool and Metro access.
+P53,Chennai,3400000,5,Plot,"Metro access, School nearby",A 5 BHK Apartment in Chennai with Metro access and School nearby.
+P54,Hyderabad,10200000,5,Villa,"Garden, Gym",A 5 BHK Plot in Hyderabad with Garden and Gym.
+P55,Bangalore,7800000,4,Plot,"Garden, Gym, School nearby",A 4 BHK Plot in Bangalore with Garden and Gym and School nearby.
+P56,Chennai,12700000,1,Plot,"School nearby, Garden",A 1 BHK Villa in Chennai with School nearby and Garden.
+P57,Chennai,5600000,4,Apartment,"Metro access, Gym",A 4 BHK Apartment in Chennai with Metro access and Gym.
+P58,Mumbai,11900000,2,Apartment,"Gym, Metro access, Swimming Pool, School nearby",A 2 BHK Plot in Mumbai with Gym and Metro access and Swimming Pool and School nearby.
+P59,Bangalore,9400000,2,Villa,"Gym, School nearby",A 2 BHK Villa in Bangalore with Gym and School nearby.
+P60,Chennai,13700000,4,Apartment,"Swimming Pool, School nearby, Parking",A 4 BHK Plot in Chennai with Swimming Pool and School nearby and Parking.
+P61,Ahmedabad,12000000,4,Plot,"School nearby, Swimming Pool, Garden, Metro access",A 4 BHK Apartment in Ahmedabad with School nearby and Swimming Pool and Garden and Metro access.
+P62,Jaipur,16100000,2,Apartment,"Swimming Pool, Garden, School nearby, Parking",A 2 BHK Apartment in Jaipur with Swimming Pool and Garden and School nearby and Parking.
+P63,Bangalore,14400000,5,Villa,"Gym, School nearby, Parking",A 5 BHK Plot in Bangalore with Gym and School nearby and Parking.
+P64,Hyderabad,8100000,5,Apartment,"School nearby, Parking",A 5 BHK Apartment in Hyderabad with School nearby and Parking.
+P65,Hyderabad,8700000,3,Plot,"Gym, Swimming Pool, School nearby, Parking",A 3 BHK Villa in Hyderabad with Gym and Swimming Pool and School nearby and Parking.
+P66,Mumbai,17600000,1,Villa,"Swimming Pool, Gym, Metro access",A 1 BHK Villa in Mumbai with Swimming Pool and Gym and Metro access.
+P67,Delhi,3700000,2,Plot,"Parking, School nearby",A 2 BHK Villa in Delhi with Parking and School nearby.
+P68,Bangalore,7200000,3,Apartment,"Swimming Pool, Garden",A 3 BHK Plot in Bangalore with Swimming Pool and Garden.
+P69,Bangalore,16400000,4,Plot,"School nearby, Gym, Swimming Pool, Garden",A 4 BHK Apartment in Bangalore with School nearby and Gym and Swimming Pool and Garden.
+P70,Lucknow,10600000,2,Apartment,"Garden, Swimming Pool, Gym",A 2 BHK Villa in Lucknow with Garden and Swimming Pool and Gym.
+P71,Jaipur,11800000,2,Villa,"School nearby, Metro access",A 2 BHK Plot in Jaipur with School nearby and Metro access.
+P72,Bangalore,14000000,5,Plot,"School nearby, Gym, Garden, Metro access",A 5 BHK Apartment in Bangalore with School nearby and Gym and Garden and Metro access.
+P73,Kolkata,6200000,1,Plot,"Garden, Gym, Parking",A 1 BHK Villa in Kolkata with Garden and Gym and Parking.
+P74,Bangalore,12000000,2,Apartment,"Parking, Garden, Gym",A 2 BHK Apartment in Bangalore with Parking and Garden and Gym.
+P75,Jaipur,10900000,4,Villa,"Garden, Parking",A 4 BHK Villa in Jaipur with Garden and Parking.
+P76,Delhi,4200000,4,Apartment,"Garden, Swimming Pool, Metro access, Gym",A 4 BHK Apartment in Delhi with Garden and Swimming Pool and Metro access and Gym.
+P77,Pune,12900000,3,Villa,"Swimming Pool, Metro access",A 3 BHK Plot in Pune with Swimming Pool and Metro access.
+P78,Mumbai,13000000,2,Villa,"School nearby, Gym, Metro access, Parking",A 2 BHK Apartment in Mumbai with School nearby and Gym and Metro access and Parking.
+P79,Mumbai,17900000,3,Apartment,"Garden, Parking, School nearby",A 3 BHK Plot in Mumbai with Garden and Parking and School nearby.
+P80,Mumbai,13100000,5,Apartment,"School nearby, Gym",A 5 BHK Plot in Mumbai with School nearby and Gym.
+P81,Bangalore,11200000,1,Plot,"Parking, Swimming Pool, Garden, Metro access",A 1 BHK Plot in Bangalore with Parking and Swimming Pool and Garden and Metro access.
+P82,Kolkata,17800000,4,Villa,"School nearby, Garden, Gym",A 4 BHK Villa in Kolkata with School nearby and Garden and Gym.
+P83,Pune,8000000,3,Apartment,"School nearby, Swimming Pool",A 3 BHK Apartment in Pune with School nearby and Swimming Pool.
+P84,Ahmedabad,9600000,3,Plot,"Parking, School nearby, Garden",A 3 BHK Villa in Ahmedabad with Parking and School nearby and Garden.
+P85,Lucknow,6300000,3,Plot,"Garden, Swimming Pool, Gym",A 3 BHK Apartment in Lucknow with Garden and Swimming Pool and Gym.
+P86,Hyderabad,11300000,3,Apartment,"Garden, Gym, Parking",A 3 BHK Villa in Hyderabad with Garden and Gym and Parking.
+P87,Bangalore,8000000,3,Plot,"Swimming Pool, Parking, Metro access",A 3 BHK Villa in Bangalore with Swimming Pool and Parking and Metro access.
+P88,Lucknow,16600000,1,Plot,"Parking, Swimming Pool, Gym, Metro access",A 1 BHK Villa in Lucknow with Parking and Swimming Pool and Gym and Metro access.
+P89,Chennai,8800000,5,Villa,"Swimming Pool, Metro access",A 5 BHK Villa in Chennai with Swimming Pool and Metro access.
+P90,Chennai,16000000,1,Apartment,"Swimming Pool, School nearby, Parking",A 1 BHK Apartment in Chennai with Swimming Pool and School nearby and Parking.
+P91,Lucknow,12100000,4,Villa,"Garden, Parking, School nearby",A 4 BHK Villa in Lucknow with Garden and Parking and School nearby.
+P92,Delhi,14500000,3,Plot,"Gym, School nearby, Garden, Metro access",A 3 BHK Apartment in Delhi with Gym and School nearby and Garden and Metro access.
+P93,Lucknow,18400000,4,Villa,"Metro access, Gym, Swimming Pool, Garden",A 4 BHK Villa in Lucknow with Metro access and Gym and Swimming Pool and Garden.
+P94,Mumbai,18000000,3,Apartment,"Gym, Parking, Garden",A 3 BHK Apartment in Mumbai with Gym and Parking and Garden.
+P95,Ahmedabad,7500000,4,Villa,"Metro access, School nearby, Parking, Swimming Pool",A 4 BHK Apartment in Ahmedabad with Metro access and School nearby and Parking and Swimming Pool.
+P96,Bangalore,15000000,4,Villa,"Gym, Metro access, Garden",A 4 BHK Apartment in Bangalore with Gym and Metro access and Garden.
+P97,Delhi,14000000,5,Plot,"School nearby, Metro access, Garden, Parking",A 5 BHK Apartment in Delhi with School nearby and Metro access and Garden and Parking.
+P98,Jaipur,4900000,4,Villa,"Gym, Metro access",A 4 BHK Plot in Jaipur with Gym and Metro access.
+P99,Chennai,9600000,3,Plot,"Garden, Gym, Metro access",A 3 BHK Plot in Chennai with Garden and Gym and Metro access.
+P100,Chennai,7900000,3,Villa,"Parking, Swimming Pool",A 3 BHK Apartment in Chennai with Parking and Swimming Pool.
+P101,Mumbai,12300000,5,Apartment,"Gym, Garden, Parking, Swimming Pool",A 5 BHK Villa in Mumbai with Gym and Garden and Parking and Swimming Pool.
+P102,Mumbai,17000000,4,Plot,"Metro access, Garden, Parking, School nearby",A 4 BHK Apartment in Mumbai with Metro access and Garden and Parking and School nearby.
+P103,Mumbai,9300000,4,Villa,"Metro access, Parking, Garden, Swimming Pool",A 4 BHK Apartment in Mumbai with Metro access and Parking and Garden and Swimming Pool.
+P104,Kolkata,7300000,3,Plot,"Metro access, Parking, Swimming Pool",A 3 BHK Villa in Kolkata with Metro access and Parking and Swimming Pool.
+P105,Hyderabad,15700000,1,Apartment,"Swimming Pool, Garden, Gym, Metro access",A 1 BHK Villa in Hyderabad with Swimming Pool and Garden and Gym and Metro access.
+P106,Hyderabad,10400000,5,Apartment,"Swimming Pool, Metro access, Garden",A 5 BHK Plot in Hyderabad with Swimming Pool and Metro access and Garden.
+P107,Pune,13200000,4,Villa,"Garden, Gym",A 4 BHK Plot in Pune with Garden and Gym.
+P108,Bangalore,3600000,4,Villa,"Parking, Metro access, Gym",A 4 BHK Plot in Bangalore with Parking and Metro access and Gym.
+P109,Ahmedabad,17500000,1,Apartment,"Parking, Metro access, Garden, Swimming Pool",A 1 BHK Villa in Ahmedabad with Parking and Metro access and Garden and Swimming Pool.
+P110,Bangalore,11500000,2,Apartment,"Parking, School nearby",A 2 BHK Apartment in Bangalore with Parking and School nearby.
+P111,Hyderabad,12300000,1,Villa,"Metro access, School nearby, Parking, Gym",A 1 BHK Plot in Hyderabad with Metro access and School nearby and Parking and Gym.
+P112,Lucknow,14000000,1,Apartment,"Metro access, Swimming Pool, Garden, School nearby",A 1 BHK Plot in Lucknow with Metro access and Swimming Pool and Garden and School nearby.
+P113,Lucknow,7700000,3,Plot,"Gym, Parking, School nearby, Swimming Pool",A 3 BHK Villa in Lucknow with Gym and Parking and School nearby and Swimming Pool.
+P114,Lucknow,7700000,3,Plot,"Metro access, Parking, Swimming Pool, Garden",A 3 BHK Villa in Lucknow with Metro access and Parking and Swimming Pool and Garden.
+P115,Hyderabad,16000000,2,Villa,"Gym, Garden, Metro access",A 2 BHK Apartment in Hyderabad with Gym and Garden and Metro access.
+P116,Lucknow,20000000,4,Villa,"Parking, Gym",A 4 BHK Apartment in Lucknow with Parking and Gym.
+P117,Pune,6800000,3,Apartment,"School nearby, Gym, Metro access",A 3 BHK Villa in Pune with School nearby and Gym and Metro access.
+P118,Kolkata,17200000,3,Villa,"Gym, Swimming Pool",A 3 BHK Plot in Kolkata with Gym and Swimming Pool.
+P119,Hyderabad,5800000,4,Apartment,"Metro access, School nearby, Garden",A 4 BHK Apartment in Hyderabad with Metro access and School nearby and Garden.
+P120,Chennai,9000000,1,Villa,"School nearby, Gym, Metro access",A 1 BHK Apartment in Chennai with School nearby and Gym and Metro access.
+P121,Bangalore,8000000,4,Villa,"Metro access, Parking",A 4 BHK Villa in Bangalore with Metro access and Parking.
+P122,Hyderabad,13400000,4,Villa,"School nearby, Garden, Gym",A 4 BHK Apartment in Hyderabad with School nearby and Garden and Gym.
+P123,Chennai,16700000,2,Apartment,"Garden, Metro access, Gym",A 2 BHK Apartment in Chennai with Garden and Metro access and Gym.
+P124,Mumbai,17200000,4,Plot,"Metro access, Parking",A 4 BHK Plot in Mumbai with Metro access and Parking.
+P125,Bangalore,17400000,4,Apartment,"Gym, School nearby, Swimming Pool, Metro access",A 4 BHK Plot in Bangalore with Gym and School nearby and Swimming Pool and Metro access.
+P126,Pune,13200000,2,Plot,"Parking, Garden, Swimming Pool, Metro access",A 2 BHK Apartment in Pune with Parking and Garden and Swimming Pool and Metro access.
+P127,Pune,4800000,2,Plot,"Gym, Parking",A 2 BHK Villa in Pune with Gym and Parking.
+P128,Chennai,3900000,4,Plot,"Swimming Pool, Metro access, School nearby",A 4 BHK Apartment in Chennai with Swimming Pool and Metro access and School nearby.
+P129,Mumbai,6800000,3,Apartment,"Gym, Metro access",A 3 BHK Villa in Mumbai with Gym and Metro access.
+P130,Delhi,13800000,3,Villa,"Gym, School nearby, Garden",A 3 BHK Apartment in Delhi with Gym and School nearby and Garden.
+P131,Hyderabad,3400000,3,Apartment,"Parking, Gym",A 3 BHK Plot in Hyderabad with Parking and Gym.
+P132,Jaipur,18800000,3,Villa,"Swimming Pool, Garden, Metro access, Gym",A 3 BHK Apartment in Jaipur with Swimming Pool and Garden and Metro access and Gym.
+P133,Lucknow,9800000,5,Plot,"Metro access, Gym, Swimming Pool, Garden",A 5 BHK Apartment in Lucknow with Metro access and Gym and Swimming Pool and Garden.
+P134,Pune,4700000,2,Apartment,"School nearby, Swimming Pool, Parking",A 2 BHK Plot in Pune with School nearby and Swimming Pool and Parking.
+P135,Kolkata,3700000,4,Villa,"Garden, Metro access, Swimming Pool",A 4 BHK Villa in Kolkata with Garden and Metro access and Swimming Pool.
+P136,Chennai,10500000,3,Plot,"Parking, Metro access, Garden, Swimming Pool",A 3 BHK Plot in Chennai with Parking and Metro access and Garden and Swimming Pool.
+P137,Mumbai,16600000,4,Apartment,"Swimming Pool, Garden, Parking, School nearby",A 4 BHK Villa in Mumbai with Swimming Pool and Garden and Parking and School nearby.
+P138,Lucknow,15900000,3,Apartment,"Gym, School nearby, Garden",A 3 BHK Plot in Lucknow with Gym and School nearby and Garden.
+P139,Mumbai,18700000,2,Apartment,"Garden, Gym, Parking, School nearby",A 2 BHK Apartment in Mumbai with Garden and Gym and Parking and School nearby.
+P140,Kolkata,5500000,3,Villa,"Metro access, Parking",A 3 BHK Villa in Kolkata with Metro access and Parking.
+P141,Delhi,4900000,3,Plot,"Metro access, Garden, Gym, School nearby",A 3 BHK Villa in Delhi with Metro access and Garden and Gym and School nearby.
+P142,Chennai,16800000,3,Villa,"Parking, School nearby, Gym, Metro access",A 3 BHK Villa in Chennai with Parking and School nearby and Gym and Metro access.
+P143,Chennai,14700000,5,Apartment,"Metro access, Parking",A 5 BHK Villa in Chennai with Metro access and Parking.
+P144,Mumbai,5200000,5,Plot,"Garden, School nearby, Metro access",A 5 BHK Villa in Mumbai with Garden and School nearby and Metro access.
+P145,Mumbai,16500000,1,Villa,"Swimming Pool, Gym, School nearby",A 1 BHK Villa in Mumbai with Swimming Pool and Gym and School nearby.
+P146,Hyderabad,14600000,2,Villa,"Parking, Swimming Pool, Gym, School nearby",A 2 BHK Plot in Hyderabad with Parking and Swimming Pool and Gym and School nearby.
+P147,Bangalore,7100000,4,Plot,"Gym, Parking, School nearby, Metro access",A 4 BHK Villa in Bangalore with Gym and Parking and School nearby and Metro access.
+P148,Delhi,6800000,2,Apartment,"Swimming Pool, Metro access, Garden",A 2 BHK Plot in Delhi with Swimming Pool and Metro access and Garden.
+P149,Mumbai,18500000,1,Plot,"Swimming Pool, Metro access, School nearby",A 1 BHK Plot in Mumbai with Swimming Pool and Metro access and School nearby.
+P150,Delhi,18900000,1,Plot,"Gym, Parking",A 1 BHK Apartment in Delhi with Gym and Parking.
+P151,Jaipur,18500000,1,Villa,"Gym, Parking",A 1 BHK Villa in Jaipur with Gym and Parking.
+P152,Jaipur,9800000,2,Apartment,"Garden, Swimming Pool, Parking",A 2 BHK Apartment in Jaipur with Garden and Swimming Pool and Parking.
+P153,Bangalore,8700000,2,Apartment,"Parking, Metro access, Swimming Pool",A 2 BHK Villa in Bangalore with Parking and Metro access and Swimming Pool.
+P154,Pune,13800000,2,Apartment,"School nearby, Metro access",A 2 BHK Plot in Pune with School nearby and Metro access.
+P155,Chennai,6300000,5,Villa,"School nearby, Parking",A 5 BHK Apartment in Chennai with School nearby and Parking.
+P156,Mumbai,14500000,1,Apartment,"Garden, Metro access",A 1 BHK Apartment in Mumbai with Garden and Metro access.
+P157,Delhi,5400000,2,Apartment,"Garden, Parking, Gym",A 2 BHK Apartment in Delhi with Garden and Parking and Gym.
+P158,Pune,6600000,4,Apartment,"Parking, Garden, Gym, Swimming Pool",A 4 BHK Apartment in Pune with Parking and Garden and Gym and Swimming Pool.
+P159,Delhi,14700000,1,Plot,"Swimming Pool, School nearby, Gym",A 1 BHK Plot in Delhi with Swimming Pool and School nearby and Gym.
+P160,Chennai,18100000,4,Villa,"Garden, Metro access, Swimming Pool, Gym",A 4 BHK Plot in Chennai with Garden and Metro access and Swimming Pool and Gym.
+P161,Mumbai,8600000,1,Apartment,"School nearby, Gym",A 1 BHK Apartment in Mumbai with School nearby and Gym.
+P162,Ahmedabad,17900000,2,Villa,"Metro access, Swimming Pool, School nearby",A 2 BHK Villa in Ahmedabad with Metro access and Swimming Pool and School nearby.
+P163,Kolkata,18600000,4,Villa,"Garden, Swimming Pool, Parking, Gym",A 4 BHK Plot in Kolkata with Garden and Swimming Pool and Parking and Gym.
+P164,Kolkata,5500000,5,Plot,"School nearby, Swimming Pool",A 5 BHK Plot in Kolkata with School nearby and Swimming Pool.
+P165,Lucknow,16600000,4,Plot,"Garden, Parking, School nearby, Swimming Pool",A 4 BHK Villa in Lucknow with Garden and Parking and School nearby and Swimming Pool.
+P166,Kolkata,4900000,3,Villa,"Garden, Gym",A 3 BHK Villa in Kolkata with Garden and Gym.
+P167,Delhi,13600000,4,Plot,"Metro access, Garden, Parking",A 4 BHK Plot in Delhi with Metro access and Garden and Parking.
+P168,Bangalore,11500000,1,Villa,"Parking, Garden",A 1 BHK Villa in Bangalore with Parking and Garden.
+P169,Kolkata,19300000,4,Plot,"Gym, Metro access, Garden",A 4 BHK Apartment in Kolkata with Gym and Metro access and Garden.
+P170,Pune,3200000,3,Apartment,"School nearby, Swimming Pool",A 3 BHK Villa in Pune with School nearby and Swimming Pool.
+P171,Pune,17900000,5,Apartment,"Metro access, Parking",A 5 BHK Apartment in Pune with Metro access and Parking.
+P172,Ahmedabad,6100000,4,Villa,"Garden, School nearby, Metro access",A 4 BHK Villa in Ahmedabad with Garden and School nearby and Metro access.
+P173,Mumbai,4900000,1,Apartment,"Garden, School nearby, Swimming Pool, Metro access",A 1 BHK Apartment in Mumbai with Garden and School nearby and Swimming Pool and Metro access.
+P174,Delhi,6600000,4,Plot,"Gym, Garden",A 4 BHK Apartment in Delhi with Gym and Garden.
+P175,Mumbai,8200000,2,Apartment,"Parking, Metro access",A 2 BHK Apartment in Mumbai with Parking and Metro access.
+P176,Bangalore,15600000,3,Apartment,"Parking, School nearby",A 3 BHK Plot in Bangalore with Parking and School nearby.
+P177,Kolkata,19400000,4,Plot,"Metro access, Garden",A 4 BHK Villa in Kolkata with Metro access and Garden.
+P178,Pune,18200000,4,Villa,"Metro access, Gym",A 4 BHK Apartment in Pune with Metro access and Gym.
+P179,Kolkata,19700000,1,Plot,"School nearby, Metro access, Swimming Pool, Garden",A 1 BHK Villa in Kolkata with School nearby and Metro access and Swimming Pool and Garden.
+P180,Hyderabad,13900000,3,Villa,"Gym, Parking, Garden, School nearby",A 3 BHK Plot in Hyderabad with Gym and Parking and Garden and School nearby.
+P181,Kolkata,18700000,1,Plot,"Gym, Swimming Pool, School nearby",A 1 BHK Plot in Kolkata with Gym and Swimming Pool and School nearby.
+P182,Pune,6900000,3,Apartment,"Garden, Gym",A 3 BHK Plot in Pune with Garden and Gym.
+P183,Chennai,4200000,5,Villa,"Swimming Pool, Garden, Metro access, School nearby",A 5 BHK Plot in Chennai with Swimming Pool and Garden and Metro access and School nearby.
+P184,Jaipur,11300000,2,Apartment,"Gym, Metro access",A 2 BHK Villa in Jaipur with Gym and Metro access.
+P185,Chennai,19600000,3,Villa,"School nearby, Metro access, Garden, Parking",A 3 BHK Apartment in Chennai with School nearby and Metro access and Garden and Parking.
+P186,Lucknow,5800000,4,Villa,"Metro access, Swimming Pool",A 4 BHK Apartment in Lucknow with Metro access and Swimming Pool.
+P187,Lucknow,4000000,3,Apartment,"Metro access, Parking, Garden",A 3 BHK Plot in Lucknow with Metro access and Parking and Garden.
+P188,Hyderabad,8600000,4,Plot,"Parking, Metro access, Garden, Swimming Pool",A 4 BHK Plot in Hyderabad with Parking and Metro access and Garden and Swimming Pool.
+P189,Chennai,12000000,5,Apartment,"Gym, School nearby, Swimming Pool",A 5 BHK Apartment in Chennai with Gym and School nearby and Swimming Pool.
+P190,Hyderabad,18200000,4,Villa,"Swimming Pool, Gym, Parking",A 4 BHK Villa in Hyderabad with Swimming Pool and Gym and Parking.
+P191,Ahmedabad,12300000,2,Apartment,"Parking, Metro access, Swimming Pool, Gym",A 2 BHK Apartment in Ahmedabad with Parking and Metro access and Swimming Pool and Gym.
+P192,Bangalore,16900000,5,Plot,"Swimming Pool, School nearby, Parking, Garden",A 5 BHK Apartment in Bangalore with Swimming Pool and School nearby and Parking and Garden.
+P193,Delhi,12500000,2,Apartment,"Metro access, Parking, Gym, Swimming Pool",A 2 BHK Apartment in Delhi with Metro access and Parking and Gym and Swimming Pool.
+P194,Chennai,11300000,3,Plot,"School nearby, Metro access",A 3 BHK Villa in Chennai with School nearby and Metro access.
+P195,Ahmedabad,15800000,2,Apartment,"Swimming Pool, Parking, Metro access, Gym",A 2 BHK Villa in Ahmedabad with Swimming Pool and Parking and Metro access and Gym.
+P196,Kolkata,10000000,1,Apartment,"School nearby, Parking",A 1 BHK Villa in Kolkata with School nearby and Parking.
+P197,Pune,13100000,3,Apartment,"Garden, Parking, Swimming Pool",A 3 BHK Apartment in Pune with Garden and Parking and Swimming Pool.
+P198,Kolkata,12100000,1,Plot,"Garden, Parking, Swimming Pool",A 1 BHK Plot in Kolkata with Garden and Parking and Swimming Pool.
+P199,Chennai,4800000,5,Plot,"Gym, Swimming Pool",A 5 BHK Villa in Chennai with Gym and Swimming Pool.
+P200,Jaipur,16400000,3,Plot,"Swimming Pool, Parking, Gym",A 3 BHK Villa in Jaipur with Swimming Pool and Parking and Gym.
+P201,Mumbai,11200000,5,Apartment,"Parking, Garden, Metro access, School nearby",A 5 BHK Villa in Mumbai with Parking and Garden and Metro access and School nearby.
+P202,Jaipur,7500000,2,Apartment,"Parking, School nearby, Swimming Pool",A 2 BHK Plot in Jaipur with Parking and School nearby and Swimming Pool.
+P203,Bangalore,7400000,1,Apartment,"Parking, School nearby, Swimming Pool",A 1 BHK Villa in Bangalore with Parking and School nearby and Swimming Pool.
+P204,Delhi,9100000,4,Plot,"Garden, Gym, Swimming Pool, Parking",A 4 BHK Villa in Delhi with Garden and Gym and Swimming Pool and Parking.
+P205,Ahmedabad,5400000,4,Apartment,"Swimming Pool, Parking, Garden",A 4 BHK Plot in Ahmedabad with Swimming Pool and Parking and Garden.
+P206,Pune,4000000,3,Villa,"Metro access, School nearby, Gym",A 3 BHK Apartment in Pune with Metro access and School nearby and Gym.
+P207,Ahmedabad,10300000,4,Villa,"School nearby, Swimming Pool, Metro access, Parking",A 4 BHK Apartment in Ahmedabad with School nearby and Swimming Pool and Metro access and Parking.
+P208,Delhi,8100000,1,Apartment,"Gym, Metro access",A 1 BHK Apartment in Delhi with Gym and Metro access.
+P209,Mumbai,11100000,2,Apartment,"Swimming Pool, School nearby",A 2 BHK Plot in Mumbai with Swimming Pool and School nearby.
+P210,Pune,19600000,1,Villa,"Swimming Pool, Garden, Gym",A 1 BHK Apartment in Pune with Swimming Pool and Garden and Gym.
+P211,Lucknow,6400000,3,Villa,"Garden, Parking, School nearby",A 3 BHK Plot in Lucknow with Garden and Parking and School nearby.
+P212,Pune,3800000,4,Villa,"Metro access, Parking, Gym",A 4 BHK Villa in Pune with Metro access and Parking and Gym.
+P213,Bangalore,5100000,4,Villa,"Gym, Metro access, School nearby",A 4 BHK Villa in Bangalore with Gym and Metro access and School nearby.
+P214,Jaipur,7600000,2,Plot,"Metro access, School nearby, Parking, Swimming Pool",A 2 BHK Plot in Jaipur with Metro access and School nearby and Parking and Swimming Pool.
+P215,Hyderabad,17000000,3,Apartment,"Swimming Pool, Garden",A 3 BHK Plot in Hyderabad with Swimming Pool and Garden.
+P216,Ahmedabad,7800000,1,Apartment,"Garden, Gym, Metro access",A 1 BHK Apartment in Ahmedabad with Garden and Gym and Metro access.
+P217,Mumbai,18500000,3,Villa,"Gym, Parking, Swimming Pool, School nearby",A 3 BHK Plot in Mumbai with Gym and Parking and Swimming Pool and School nearby.
+P218,Jaipur,17800000,4,Villa,"Parking, Swimming Pool",A 4 BHK Plot in Jaipur with Parking and Swimming Pool.
+P219,Pune,11600000,4,Villa,"School nearby, Metro access",A 4 BHK Plot in Pune with School nearby and Metro access.
+P220,Bangalore,16000000,4,Apartment,"School nearby, Gym, Garden, Parking",A 4 BHK Apartment in Bangalore with School nearby and Gym and Garden and Parking.
+P221,Chennai,15300000,1,Apartment,"Garden, Metro access, Gym, Parking",A 1 BHK Apartment in Chennai with Garden and Metro access and Gym and Parking.
+P222,Kolkata,8400000,1,Plot,"Parking, Garden",A 1 BHK Plot in Kolkata with Parking and Garden.
+P223,Lucknow,18200000,1,Plot,"Gym, Garden, School nearby",A 1 BHK Apartment in Lucknow with Gym and Garden and School nearby.
+P224,Bangalore,8100000,2,Villa,"Swimming Pool, Parking",A 2 BHK Villa in Bangalore with Swimming Pool and Parking.
+P225,Bangalore,3800000,1,Apartment,"Parking, Swimming Pool, Metro access, Gym",A 1 BHK Plot in Bangalore with Parking and Swimming Pool and Metro access and Gym.
+P226,Hyderabad,11500000,5,Villa,"Parking, Garden, Swimming Pool",A 5 BHK Plot in Hyderabad with Parking and Garden and Swimming Pool.
+P227,Jaipur,17700000,4,Villa,"Parking, Gym",A 4 BHK Villa in Jaipur with Parking and Gym.
+P228,Bangalore,9000000,4,Plot,"School nearby, Gym, Parking, Swimming Pool",A 4 BHK Apartment in Bangalore with School nearby and Gym and Parking and Swimming Pool.
+P229,Delhi,7100000,1,Plot,"Swimming Pool, Metro access, Garden, Parking",A 1 BHK Villa in Delhi with Swimming Pool and Metro access and Garden and Parking.
+P230,Delhi,15400000,2,Plot,"School nearby, Swimming Pool, Garden, Metro access",A 2 BHK Villa in Delhi with School nearby and Swimming Pool and Garden and Metro access.
+P231,Lucknow,12000000,1,Apartment,"Garden, Swimming Pool",A 1 BHK Apartment in Lucknow with Garden and Swimming Pool.
+P232,Bangalore,11700000,4,Plot,"Parking, Swimming Pool, Metro access, Garden",A 4 BHK Villa in Bangalore with Parking and Swimming Pool and Metro access and Garden.
+P233,Delhi,10500000,5,Villa,"Parking, Metro access",A 5 BHK Apartment in Delhi with Parking and Metro access.
+P234,Hyderabad,3700000,5,Plot,"School nearby, Garden, Gym, Swimming Pool",A 5 BHK Plot in Hyderabad with School nearby and Garden and Gym and Swimming Pool.
+P235,Lucknow,16500000,1,Apartment,"School nearby, Gym, Swimming Pool, Garden",A 1 BHK Villa in Lucknow with School nearby and Gym and Swimming Pool and Garden.
+P236,Ahmedabad,17500000,3,Plot,"Parking, School nearby, Metro access, Swimming Pool",A 3 BHK Villa in Ahmedabad with Parking and School nearby and Metro access and Swimming Pool.
+P237,Kolkata,8700000,1,Villa,"Parking, Swimming Pool, Gym, Garden",A 1 BHK Plot in Kolkata with Parking and Swimming Pool and Gym and Garden.
+P238,Kolkata,17600000,1,Apartment,"Garden, Parking",A 1 BHK Villa in Kolkata with Garden and Parking.
+P239,Hyderabad,12000000,4,Apartment,"Parking, School nearby",A 4 BHK Villa in Hyderabad with Parking and School nearby.
+P240,Delhi,6400000,5,Villa,"School nearby, Garden, Gym",A 5 BHK Plot in Delhi with School nearby and Garden and Gym.
+P241,Mumbai,7400000,3,Apartment,"Metro access, Gym, Parking",A 3 BHK Plot in Mumbai with Metro access and Gym and Parking.
+P242,Chennai,13600000,4,Plot,"School nearby, Gym, Swimming Pool",A 4 BHK Apartment in Chennai with School nearby and Gym and Swimming Pool.
+P243,Ahmedabad,3300000,3,Villa,"Swimming Pool, Metro access, School nearby, Gym",A 3 BHK Apartment in Ahmedabad with Swimming Pool and Metro access and School nearby and Gym.
+P244,Ahmedabad,15300000,4,Plot,"Garden, Metro access",A 4 BHK Plot in Ahmedabad with Garden and Metro access.
+P245,Chennai,17100000,2,Apartment,"Garden, Swimming Pool",A 2 BHK Plot in Chennai with Garden and Swimming Pool.
+P246,Delhi,5500000,5,Villa,"Metro access, Garden, Parking, Gym",A 5 BHK Villa in Delhi with Metro access and Garden and Parking and Gym.
+P247,Delhi,13700000,3,Villa,"Metro access, Parking",A 3 BHK Plot in Delhi with Metro access and Parking.
+P248,Kolkata,14000000,2,Plot,"Swimming Pool, Parking, Garden",A 2 BHK Villa in Kolkata with Swimming Pool and Parking and Garden.
+P249,Jaipur,7800000,2,Plot,"Garden, School nearby, Swimming Pool",A 2 BHK Plot in Jaipur with Garden and School nearby and Swimming Pool.
+P250,Lucknow,3100000,4,Plot,"Gym, Garden, Parking, School nearby",A 4 BHK Apartment in Lucknow with Gym and Garden and Parking and School nearby.
+P251,Lucknow,7900000,3,Villa,"Swimming Pool, Garden, School nearby",A 3 BHK Plot in Lucknow with Swimming Pool and Garden and School nearby.
+P252,Delhi,16900000,2,Apartment,"Garden, Swimming Pool, Gym, Metro access",A 2 BHK Villa in Delhi with Garden and Swimming Pool and Gym and Metro access.
+P253,Ahmedabad,5000000,4,Apartment,"Metro access, Swimming Pool",A 4 BHK Villa in Ahmedabad with Metro access and Swimming Pool.
+P254,Jaipur,5000000,5,Villa,"Gym, Garden, School nearby",A 5 BHK Apartment in Jaipur with Gym and Garden and School nearby.
+P255,Ahmedabad,7200000,1,Apartment,"School nearby, Swimming Pool, Parking, Gym",A 1 BHK Plot in Ahmedabad with School nearby and Swimming Pool and Parking and Gym.
+P256,Pune,7100000,3,Plot,"Swimming Pool, School nearby",A 3 BHK Apartment in Pune with Swimming Pool and School nearby.
+P257,Delhi,10900000,3,Apartment,"School nearby, Garden, Gym, Parking",A 3 BHK Apartment in Delhi with School nearby and Garden and Gym and Parking.
+P258,Ahmedabad,8400000,3,Plot,"Parking, Garden",A 3 BHK Plot in Ahmedabad with Parking and Garden.
+P259,Delhi,18400000,3,Villa,"Swimming Pool, Parking, Gym, Garden",A 3 BHK Villa in Delhi with Swimming Pool and Parking and Gym and Garden.
+P260,Pune,19900000,1,Villa,"School nearby, Metro access, Gym",A 1 BHK Apartment in Pune with School nearby and Metro access and Gym.
+P261,Ahmedabad,11200000,2,Plot,"Metro access, School nearby",A 2 BHK Apartment in Ahmedabad with Metro access and School nearby.
+P262,Bangalore,3300000,1,Plot,"Gym, Swimming Pool, Metro access, Parking",A 1 BHK Apartment in Bangalore with Gym and Swimming Pool and Metro access and Parking.
+P263,Kolkata,14000000,4,Apartment,"Garden, Metro access, School nearby, Gym",A 4 BHK Villa in Kolkata with Garden and Metro access and School nearby and Gym.
+P264,Pune,18700000,2,Villa,"Parking, Metro access",A 2 BHK Villa in Pune with Parking and Metro access.
+P265,Delhi,12200000,5,Apartment,"Gym, Garden, Swimming Pool",A 5 BHK Apartment in Delhi with Gym and Garden and Swimming Pool.
+P266,Jaipur,7100000,2,Apartment,"Gym, School nearby, Metro access, Garden",A 2 BHK Plot in Jaipur with Gym and School nearby and Metro access and Garden.
+P267,Mumbai,14500000,3,Villa,"Garden, Swimming Pool",A 3 BHK Plot in Mumbai with Garden and Swimming Pool.
+P268,Hyderabad,6000000,1,Plot,"Swimming Pool, Gym, Garden",A 1 BHK Plot in Hyderabad with Swimming Pool and Gym and Garden.
+P269,Ahmedabad,9600000,3,Plot,"Gym, Swimming Pool",A 3 BHK Apartment in Ahmedabad with Gym and Swimming Pool.
+P270,Bangalore,12300000,3,Villa,"Swimming Pool, Garden, School nearby",A 3 BHK Apartment in Bangalore with Swimming Pool and Garden and School nearby.
+P271,Chennai,4000000,1,Apartment,"School nearby, Metro access, Parking, Swimming Pool",A 1 BHK Apartment in Chennai with School nearby and Metro access and Parking and Swimming Pool.
+P272,Jaipur,9300000,2,Villa,"Parking, Gym",A 2 BHK Apartment in Jaipur with Parking and Gym.
+P273,Delhi,14500000,4,Plot,"Swimming Pool, Parking, Gym",A 4 BHK Villa in Delhi with Swimming Pool and Parking and Gym.
+P274,Delhi,9300000,2,Apartment,"Parking, Metro access, Swimming Pool, Garden",A 2 BHK Villa in Delhi with Parking and Metro access and Swimming Pool and Garden.
+P275,Jaipur,14300000,1,Apartment,"Metro access, Gym, Parking, School nearby",A 1 BHK Apartment in Jaipur with Metro access and Gym and Parking and School nearby.
+P276,Pune,3500000,4,Villa,"Garden, School nearby, Swimming Pool",A 4 BHK Apartment in Pune with Garden and School nearby and Swimming Pool.
+P277,Delhi,3000000,1,Plot,"Metro access, Gym, Parking",A 1 BHK Apartment in Delhi with Metro access and Gym and Parking.
+P278,Jaipur,12600000,3,Apartment,"Gym, Swimming Pool, Garden, Parking",A 3 BHK Villa in Jaipur with Gym and Swimming Pool and Garden and Parking.
+P279,Bangalore,9300000,2,Villa,"Garden, School nearby, Gym",A 2 BHK Plot in Bangalore with Garden and School nearby and Gym.
+P280,Chennai,16000000,5,Plot,"Parking, Swimming Pool",A 5 BHK Plot in Chennai with Parking and Swimming Pool.
+P281,Hyderabad,10700000,2,Plot,"School nearby, Garden, Gym",A 2 BHK Villa in Hyderabad with School nearby and Garden and Gym.
+P282,Delhi,7200000,5,Plot,"Garden, Swimming Pool, Parking, School nearby",A 5 BHK Villa in Delhi with Garden and Swimming Pool and Parking and School nearby.
+P283,Chennai,12900000,5,Villa,"Swimming Pool, Metro access",A 5 BHK Plot in Chennai with Swimming Pool and Metro access.
+P284,Jaipur,3300000,1,Apartment,"Garden, School nearby",A 1 BHK Apartment in Jaipur with Garden and School nearby.
+P285,Hyderabad,9400000,2,Apartment,"Garden, Swimming Pool, Parking, Gym",A 2 BHK Apartment in Hyderabad with Garden and Swimming Pool and Parking and Gym.
+P286,Chennai,5900000,4,Plot,"School nearby, Gym, Metro access, Garden",A 4 BHK Apartment in Chennai with School nearby and Gym and Metro access and Garden.
+P287,Bangalore,11300000,5,Villa,"Gym, Parking, Swimming Pool",A 5 BHK Villa in Bangalore with Gym and Parking and Swimming Pool.
+P288,Delhi,4600000,1,Villa,"Swimming Pool, School nearby, Gym",A 1 BHK Apartment in Delhi with Swimming Pool and School nearby and Gym.
+P289,Bangalore,15400000,3,Plot,"Parking, Garden, Swimming Pool, Gym",A 3 BHK Plot in Bangalore with Parking and Garden and Swimming Pool and Gym.
+P290,Bangalore,10700000,2,Villa,"Metro access, Garden, Gym",A 2 BHK Apartment in Bangalore with Metro access and Garden and Gym.
+P291,Hyderabad,10700000,5,Apartment,"Metro access, Gym",A 5 BHK Plot in Hyderabad with Metro access and Gym.
+P292,Hyderabad,18900000,3,Villa,"Gym, Metro access, Swimming Pool, Parking",A 3 BHK Plot in Hyderabad with Gym and Metro access and Swimming Pool and Parking.
+P293,Lucknow,7000000,3,Plot,"School nearby, Garden, Swimming Pool, Metro access",A 3 BHK Apartment in Lucknow with School nearby and Garden and Swimming Pool and Metro access.
+P294,Bangalore,10700000,5,Villa,"Gym, Metro access, Swimming Pool, Garden",A 5 BHK Villa in Bangalore with Gym and Metro access and Swimming Pool and Garden.
+P295,Ahmedabad,19800000,5,Plot,"School nearby, Garden",A 5 BHK Apartment in Ahmedabad with School nearby and Garden.
+P296,Jaipur,18200000,4,Villa,"Gym, Parking, Garden, Swimming Pool",A 4 BHK Apartment in Jaipur with Gym and Parking and Garden and Swimming Pool.
+P297,Lucknow,15200000,1,Apartment,"Garden, School nearby, Swimming Pool",A 1 BHK Apartment in Lucknow with Garden and School nearby and Swimming Pool.
+P298,Kolkata,5700000,2,Apartment,"Swimming Pool, Parking",A 2 BHK Plot in Kolkata with Swimming Pool and Parking.
+P299,Mumbai,9900000,5,Apartment,"Parking, School nearby, Swimming Pool",A 5 BHK Plot in Mumbai with Parking and School nearby and Swimming Pool.

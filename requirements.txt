@@ -1,0 +1,36 @@
+# -------------------------
+# Core Backend
+# -------------------------
+fastapi
+uvicorn
+pydantic
+
+# -------------------------
+# AI / LLM
+# -------------------------
+langchain
+langchain-community
+sentence-transformers
+chromadb
+
+# -------------------------
+# Local LLM Communication
+# -------------------------
+httpx
+
+# -------------------------
+# Data Processing
+# -------------------------
+pandas
+numpy
+
+# -------------------------
+# Frontend (Demo UI)
+# -------------------------
+streamlit
+requests
+
+# -------------------------
+# File Handling
+# -------------------------
+python-multipart
